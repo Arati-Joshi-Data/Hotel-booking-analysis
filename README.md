@@ -63,3 +63,11 @@ The dataset contains hotel booking information, including:
 Aspiring Data Analyst | Python | SQL | Excel | Power BI
 
 GitHub: https://github.com/Arati-Joshi-Data
+
+## 📊 Project Visualizations
+
+### 1. Monthly Booking Trends
+![Monthly Bookings](images/monthly_bookings.png)
+
+### 2. Booking Cancellation Analysis
+![Cancellation Analysis](images/cancellation_analysis.png)
