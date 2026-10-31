@@ -66,8 +66,14 @@ GitHub: https://github.com/Arati-Joshi-Data
 
 ## 📊 Project Visualizations
 
-### 1. Monthly Booking Trends
-![Monthly Bookings](images/monthly_bookings.png)
+### 1. Daily Booking Volumes Over Time by Hotel Type
+![Daily Bookings](images/Daily Booking Volumes Over Time by Hotel Type.png)
 
-### 2. Booking Cancellation Analysis
-![Cancellation Analysis](images/cancellation_analysis.png)
+### 2.Number of Customers.Bookings in Each Segment
+![Daily Bookings](images/Number of Customers.Bookings in Each Segment.png)
+
+###3. Daily ADR
+![Daily Bookings](images/Daily ADR.png)
+
+###4. Total Hotel bookings by month
+![Daily Bookings](images/Total Hotel bookings by month.png)
